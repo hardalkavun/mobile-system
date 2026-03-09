@@ -16,7 +16,7 @@
         <!-- Google Maps API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="INSERT API KEY HERE"/>            //md5 ile hallet bi ara
+            android:value="INSERT API KEY HERE"/>            <!--md5 ile hallet bi ara-->
 
         <activity android:name=".MapsActivity"
             android:exported="true">
